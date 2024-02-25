@@ -2,3 +2,5 @@
 *.jpg filter=lfs diff=lfs merge=lfs -text
 *.jpeg filter=lfs diff=lfs merge=lfs -text
 *.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+Location_classification/variables/variables.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+Home_style_binary_classification/variables/variables.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
